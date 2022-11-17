@@ -1,1 +1,1 @@
-This is test project with hero admin panel!
+Это учебный проект с административной панелью героев
